@@ -2,4 +2,5 @@
 Learning OpenCV and making it as a module known as cvCloud
 
 # CoreOperations
-## Ajay
+  from CoreOperations.operations import BasicOperationImage
+  
