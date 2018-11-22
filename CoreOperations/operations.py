@@ -45,10 +45,9 @@ class BasicOperationsOnImages:
 
         img = cv2.imread(self.loc)
         region = img[:, :, 0]      # We have selected the region from 250:300 to 250:300
-        # img[250:300, 250:300] = [255,255,255]   # Replacing 
-        # img[350:400, 550:600] = region
+        img[250:300, 250:300] = [255,25,255]   # Replacing 
         
-        cv2.imshow('Image', region)
+        cv2.imshow('Image', img)
         key = cv2.waitKey(0)
         cv2.destroyAllWindows()
     
