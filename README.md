@@ -8,6 +8,6 @@ Classes:
 <br>Functions: <br>Modify()<br>RegionOfImage()<br>Border()<br>GetProperty()<br>
 
 ### from CoreOperations.ImageProcessing import Colorspace
-<br>Functions: <br><bold>ChangeColorSpace()<br>ObjectTracking<br></bold>
+<br>Functions: <br><bold>ChangeColorSpace()<br>ObjectTracking()<br></bold>
 
   
