@@ -1,6 +1,6 @@
 # cvCloud<br>
 #opencv #computervision<br>
-Learning OpenCV and making it as a module known as cvCloud
+Learning <b>OpenCV</b> and making it as a module known as <b>cvCloud</b>
 
 # CoreOperations
 Classes:
